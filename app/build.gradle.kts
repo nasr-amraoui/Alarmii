@@ -63,4 +63,10 @@ dependencies {
 
     // Material Icon
     implementation("androidx.compose.material:material-icons-extended:1.5.4")
+
+    // Lifecycle
+    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.1")
+
+    // Livedata
+    implementation("androidx.compose.runtime:runtime-livedata:1.5.1")
 }
